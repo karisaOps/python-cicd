@@ -1,7 +1,7 @@
 def main():
     name = input("What is your name? ")
     print(f"Hello, {name}!")
-    print(f"{name}, welcome to Python!")
+    print("Welcome to Python!")
 
 
 if __name__ == "__main__":
